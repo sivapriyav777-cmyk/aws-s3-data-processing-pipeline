@@ -1,0 +1,22 @@
+
+aws-s3-file-processing-automation/
+│
+├── data/
+│   └── sample_customers.csv
+│
+├── src/
+│   ├── file_reader.py
+│   ├── data_validator.py
+│   ├── data_transformer.py
+│   ├── database_loader.py
+│   └── lambda_function.py
+│
+├── tests/
+│   └── test_data_validator.py
+│
+├── config/
+│   └── config.py
+│
+├── requirements.txt
+├── README.md
+└── .gitignore
