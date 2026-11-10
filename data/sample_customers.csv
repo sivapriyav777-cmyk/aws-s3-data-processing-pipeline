@@ -1,0 +1,6 @@
+customer_id,name,email,city
+101,John,john@gmail.com,Chennai
+102,Sarah,sarah@gmail.com,Bangalore
+103,David,invalid_email,Hyderabad
+104,Peter,peter@gmail.com,Mumbai
+105,Mary,,Chennai
